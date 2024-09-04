@@ -1,3 +1,5 @@
+Igwebuike Oluchukwu Vivian
+\
 The curse of dimensionality is a major challenge in cancer research, especially when working with datasets that include many features, such as gene expression profiles. As the number of features increases relative to the number of samples, it becomes harder to find meaningful patterns, and the data can become sparse. This often leads to overfitting, where models become too complex and fit noise rather than true patterns. To address this issue, techniques like Principal Component Analysis (PCA) are employed to reduce the number of features while retaining crucial information. For instance, PCA has been used to simplify gene expression data from The Cancer Genome Atlas (TCGA), aiding in the identification of distinct cancer subtypes and improving the clarity of research outcomes (Jolliffe, 2002).\
 \
 Supervised learning is crucial for developing predictive models in cancer research. This approach uses labeled data to train models, enabling them to predict outcomes for new, unseen data. For example, support vector machines (SVMs) and random forests are commonly used to classify cancer types based on gene expression profiles. An application of this is the use of SVMs to categorize breast cancer patients into prognostic groups, which helps in personalizing treatment strategies (Cortes & Vapnik, 1995).\
@@ -12,13 +14,13 @@ Protein-protein network analysis helps to elucidate how proteins interact within
 \
 References:
 \
-Barretina, J., et al. (2012). The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature, 483(7391), 603-607.
- Cortes, C., & Vapnik, V. (1995). Support-vector networks. \Machine Learning\, 20(3), 273-297.
- Eisen, M. B., Spellman, P. T., Brown, P. O., & Botstein, D. (1998). Cluster analysis and display of genome-wide expression patterns. Proceedings of the National Academy of Sciences, 95(25), 14863-14868.
- Goh, K. I., et al. (2007). The human protein–protein interaction network: a structural and functional perspective. Nature, 446(7136), 883-888.
- Jolliffe, I. T. (2002). Principal Component Analysis. Springer Series in Statistics.
- Jumper, J., et al. (2021). High-accuracy protein structure prediction using deep learning. Nature, 596(7873), 583-589.
- Kanehisa, M., & Goto, S. (2000). KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Research, 28(1), 27-30.
- The ENCODE Project Consortium. (2012). An integrated encyclopedia of DNA elements in the human genome. Nature, 489(7414), 57-74.
- Tomczak, K., Czerwinska, P., & Wiznerowicz, M. (2015). The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge. Contemporary Oncology, 19(1A), A68-A77.
- Wang, Z., et al. (2009). RNA-Seq: a revolutionary tool for transcriptomics. \Nature Reviews Genetics, 10(1), 57-63.
+\Barretina, J., et al. (2012). The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature, 483(7391), 603-607.\
+\Cortes, C., & Vapnik, V. (1995). Support-vector networks. \Machine Learning\, 20(3), 273-297.\
+ \Eisen, M. B., Spellman, P. T., Brown, P. O., & Botstein, D. (1998). Cluster analysis and display of genome-wide expression patterns. Proceedings of the National Academy of Sciences, 95(25), 14863-14868.\
+\ Goh, K. I., et al. (2007). The human protein–protein interaction network: a structural and functional perspective. Nature, 446(7136), 883-888.\
+ \Jolliffe, I. T. (2002). Principal Component Analysis. Springer Series in Statistics.\
+ \Jumper, J., et al. (2021). High-accuracy protein structure prediction using deep learning. Nature, 596(7873), 583-589.\
+ \Kanehisa, M., & Goto, S. (2000). KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Research, 28(1), 27-30.\
+ \The ENCODE Project Consortium. (2012). An integrated encyclopedia of DNA elements in the human genome. Nature, 489(7414), 57-74.\
+ \Tomczak, K., Czerwinska, P., & Wiznerowicz, M. (2015). The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge. Contemporary Oncology, 19(1A), A68-A77.\
+ \Wang, Z., et al. (2009). RNA-Seq: a revolutionary tool for transcriptomics. Nature Reviews Genetics, 10(1), 57-63.\
