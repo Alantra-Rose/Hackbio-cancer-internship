@@ -1,4 +1,4 @@
-Igwebuike Oluchukwu Vivian
+Author: Igwebuike Oluchukwu Vivian
 \
 The curse of dimensionality is a major challenge in cancer research, especially when working with datasets that include many features, such as gene expression profiles. As the number of features increases relative to the number of samples, it becomes harder to find meaningful patterns, and the data can become sparse. This often leads to overfitting, where models become too complex and fit noise rather than true patterns. To address this issue, techniques like Principal Component Analysis (PCA) are employed to reduce the number of features while retaining crucial information. For instance, PCA has been used to simplify gene expression data from The Cancer Genome Atlas (TCGA), aiding in the identification of distinct cancer subtypes and improving the clarity of research outcomes (Jolliffe, 2002).\
 \
