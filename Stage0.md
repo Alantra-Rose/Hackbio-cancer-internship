@@ -10,7 +10,7 @@ Bioinformatics databases like TCGA, CCLE, and ENCODE are essential for cancer re
 \
 Protein-protein network analysis helps to elucidate how proteins interact within cells, revealing potential new drug targets. For example, analyzing interactions between proteins involved in colorectal cancer has identified new targets for treatment (Goh et al., 2007). Each of these tools and techniques plays a vital role in advancing cancer research and improving treatment options, making them invaluable for ongoing efforts in cancer therapy and understanding.\
 \
-\*\*References:\*\*\
+\References:\
 \
 \- Barretina, J., et al. (2012). The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. \*Nature\*, 483(7391), 603-607.\
 \- Cortes, C., & Vapnik, V. (1995). Support-vector networks. \*Machine Learning\*, 20(3), 273-297.\
