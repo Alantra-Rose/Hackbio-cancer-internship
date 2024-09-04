@@ -14,13 +14,13 @@ Protein-protein network analysis helps to elucidate how proteins interact within
 \
 References:
 \
-\Barretina, J., et al. (2012). The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature, 483(7391), 603-607.\
-\Cortes, C., & Vapnik, V. (1995). Support-vector networks. \Machine Learning\, 20(3), 273-297.\
- \Eisen, M. B., Spellman, P. T., Brown, P. O., & Botstein, D. (1998). Cluster analysis and display of genome-wide expression patterns. Proceedings of the National Academy of Sciences, 95(25), 14863-14868.\
-\ Goh, K. I., et al. (2007). The human protein–protein interaction network: a structural and functional perspective. Nature, 446(7136), 883-888.\
- \Jolliffe, I. T. (2002). Principal Component Analysis. Springer Series in Statistics.\
- \Jumper, J., et al. (2021). High-accuracy protein structure prediction using deep learning. Nature, 596(7873), 583-589.\
- \Kanehisa, M., & Goto, S. (2000). KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Research, 28(1), 27-30.\
- \The ENCODE Project Consortium. (2012). An integrated encyclopedia of DNA elements in the human genome. Nature, 489(7414), 57-74.\
- \Tomczak, K., Czerwinska, P., & Wiznerowicz, M. (2015). The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge. Contemporary Oncology, 19(1A), A68-A77.\
- \Wang, Z., et al. (2009). RNA-Seq: a revolutionary tool for transcriptomics. Nature Reviews Genetics, 10(1), 57-63.\
+Barretina, J., et al. (2012). The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature, 483(7391), 603-607.\
+Cortes, C., & Vapnik, V. (1995). Support-vector networks. \Machine Learning\, 20(3), 273-297.\
+ Eisen, M. B., Spellman, P. T., Brown, P. O., & Botstein, D. (1998). Cluster analysis and display of genome-wide expression patterns. Proceedings of the National Academy of Sciences, 95(25), 14863-14868.\
+ Goh, K. I., et al. (2007). The human protein–protein interaction network: a structural and functional perspective. Nature, 446(7136), 883-888.\
+ Jolliffe, I. T. (2002). Principal Component Analysis. Springer Series in Statistics.\
+ Jumper, J., et al. (2021). High-accuracy protein structure prediction using deep learning. Nature, 596(7873), 583-589.\
+ Kanehisa, M., & Goto, S. (2000). KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Research, 28(1), 27-30.\
+ The ENCODE Project Consortium. (2012). An integrated encyclopedia of DNA elements in the human genome. Nature, 489(7414), 57-74.\
+ Tomczak, K., Czerwinska, P., & Wiznerowicz, M. (2015). The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge. Contemporary Oncology, 19(1A), A68-A77.\
+ Wang, Z., et al. (2009). RNA-Seq: a revolutionary tool for transcriptomics. Nature Reviews Genetics, 10(1), 57-63.\
